@@ -23,7 +23,7 @@ The primary goals of this project are to:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/server-automation-cli.git
+   git clone https://github.com/phanithken/server-automation-cli.git
    ```
 2. Navigate to the project directory:
    ```
@@ -88,7 +88,7 @@ Contributions to the Server Automation CLI are welcome! Here's how you can contr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
