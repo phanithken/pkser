@@ -1,8 +1,8 @@
-# pkser
+# serverprobe
 
 ## Description
 
-pkser is a powerful command-line interface tool designed to streamline and automate repetitive tasks on servers. This tool currently focuses on Nginx and Laravel configurations, providing easy-to-use commands for setting up web servers and managing basic authentication.
+serverprobe is a powerful command-line interface tool designed to streamline and automate repetitive tasks on servers. This tool currently focuses on Nginx and Laravel configurations, providing easy-to-use commands for setting up web servers and managing basic authentication.
 
 The primary goals of this project are to:
 
